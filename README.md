@@ -16,14 +16,14 @@ Speicherort: "/usr/lib/enigma2/python/Plugins/Extensions/Calendar/"
 
 Zu finden unter Menüpunkt: Informationen -> Kalender
 
-Installation:
+    Installation:
     Herunterladen und Entpacken
     Benennen sie das Verzeichnis um in Calendar
     Kopieren sie das Verzeichnis Calendar in das Verzeichnis "/usr/lib/enigma2/python/Plugins/Extensions/".
     Starten sie nun ihren Enigma2 Receiver neu.
     In den ihren Erweiterungen erscheint nun die Erweiterung Kalender.
 
-Verfügbare Sprachen:
+    Verfügbare Sprachen:
     de
     en
     es
