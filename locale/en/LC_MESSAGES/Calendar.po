@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Calendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-29 01:13+0100\n"
+"PO-Revision-Date: 2018-12-05 14:50+0100\n"
+"Last-Translator: Manfred Aabye <openmanniland@gmx.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_001\n"
+"X-Generator: Poedit 2.2\n"
+
+msgid "Calendar"
+msgstr "Calendar"
+
+msgid "Germany"
+msgstr "Germany"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Latvia"
+msgstr "Latvia"
+
+msgid "Mon"
+msgstr "Mon"
+
+msgid "Tue"
+msgstr "Tue"
+
+msgid "Wed"
+msgstr "Wed"
+
+msgid "Thu"
+msgstr "Thu"
+
+msgid "Fri"
+msgstr "Fri"
+
+msgid "Sat"
+msgstr "Sat"
+
+msgid "Sun"
+msgstr "Sun"
+
+msgid "January"
+msgstr "January"
+
+msgid "February"
+msgstr "February"
+
+msgid "March"
+msgstr "March"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "June"
+
+msgid "July"
+msgstr "July"
+
+msgid "August"
+msgstr "August"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "October"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Show Calendar in menu information:"
+msgstr "Show Calendar in menu information:"
+
+msgid "Config Calendar"
+msgstr "Config Calendar"
+
+msgid "Month -"
+msgstr "Month -"
+
+msgid "Month +"
+msgstr "Month +"
+
+msgid "Day -"
+msgstr "Day -"
+
+msgid "Day +"
+msgstr "Day +"
+
+msgid "No file in database..."
+msgstr "No file in database..."
+
+msgid "Location:"
+msgstr "Location:"
+
+msgid "Configuration is saved"
+msgstr "Configuration is saved"
+
+msgid "Mo Tu We Th Fr Sa Su"
+msgstr "Mo Tu We Th Fr Sa Su"
+
+msgid ""
+"Calendar\n"
+"Developer: Sirius0103 \n"
+"Homepage: www.gisclub.tv \n"
+"\n"
+"Donate:\n"
+"WMZ  Z395874509364\n"
+"WMR  R213063691482"
+msgstr ""
+"Calendar\n"
+"Developer: Sirius0103 \n"
+"Homepage: www.gisclub.tv \n"
+"\n"
+"Donate:\n"
+"WMZ  Z395874509364\n"
+"WMR  R213063691482"

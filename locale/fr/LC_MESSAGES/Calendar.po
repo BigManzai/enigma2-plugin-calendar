@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Calendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-29 01:13+0100\n"
+"PO-Revision-Date: 2018-12-05 15:06+0100\n"
+"Last-Translator: Manfred Aabye <openmanniland@gmx.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 2.2\n"
+
+msgid "Calendar"
+msgstr "Calendrier"
+
+msgid "Germany"
+msgstr "Allemagne"
+
+msgid "Russia"
+msgstr "Russie"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Latvia"
+msgstr "Lettonie"
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Wed"
+msgstr "Mer"
+
+msgid "Thu"
+msgstr "Jeu"
+
+msgid "Fri"
+msgstr "Ven"
+
+msgid "Sat"
+msgstr "Sam"
+
+msgid "Sun"
+msgstr "Dim"
+
+msgid "January"
+msgstr "Janvier"
+
+msgid "February"
+msgstr "Février"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "April"
+msgstr "Avril"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Juin"
+
+msgid "July"
+msgstr "Juillet"
+
+msgid "August"
+msgstr "Août"
+
+msgid "September"
+msgstr "Septembre"
+
+msgid "October"
+msgstr "Octobre"
+
+msgid "November"
+msgstr "Novembre"
+
+msgid "December"
+msgstr "Décembre"
+
+msgid "Show Calendar in menu information:"
+msgstr "Afficher le calendrier dans le menu informations:"
+
+msgid "Config Calendar"
+msgstr "Calendrier config"
+
+msgid "Month -"
+msgstr "Mois -"
+
+msgid "Month +"
+msgstr "Mois +"
+
+msgid "Day -"
+msgstr "Jour -"
+
+msgid "Day +"
+msgstr "Jour +"
+
+msgid "No file in database..."
+msgstr "Aucun fichier dans la base de données..."
+
+msgid "Location:"
+msgstr "Lieu :"
+
+msgid "Configuration is saved"
+msgstr "La configuration est sauvegardée"
+
+msgid "Mo Tu We Th Fr Sa Su"
+msgstr "Lu Ma Me Je Ve Sa Di"
+
+msgid ""
+"Calendar\n"
+"Developer: Sirius0103 \n"
+"Homepage: www.gisclub.tv \n"
+"\n"
+"Donate:\n"
+"WMZ  Z395874509364\n"
+"WMR  R213063691482"
+msgstr ""
+"Calendar\n"
+"Developer: Sirius0103 \n"
+"Homepage: www.gisclub.tv \n"
+"\n"
+"Donate:\n"
+"WMZ  Z395874509364\n"
+"WMR  R213063691482"
