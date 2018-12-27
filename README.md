@@ -11,6 +11,7 @@ Ich habe diesen Kalender Minimiert, er ist ideal um mal eben in einen Kalender z
     Grün Taste = Nächster Monat
     Gelb Taste = Vorheriger Tag
     Blau Taste = Nächster Tag
+    Exit = Beenden
 
 Speicherort: "/usr/lib/enigma2/python/Plugins/Extensions/Calendar/"
 
