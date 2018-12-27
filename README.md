@@ -23,6 +23,8 @@ Zu finden unter Menüpunkt: Informationen -> Kalender
     Starten sie nun ihren Enigma2 Receiver neu.
     In den ihren Erweiterungen erscheint nun die Erweiterung Kalender.
 
+.
+
     Verfügbare Sprachen:
     de
     en
